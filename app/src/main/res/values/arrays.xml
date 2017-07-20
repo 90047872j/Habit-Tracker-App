@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_type_options">
+        <item>@string/type_resting_day</item>
+        <item>@string/type_cardio_workout</item>
+        <item>@string/type_muscle_workout</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Routine Tracker</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="editor_activity_title_new_routine">Add a New Routine</string>
+    <string name="action_save">Save</string>
+    <string name="category_date">Date</string>
+    <string name="category_exercise">Exercise</string>
+    <string name="category_type">Type</string>
+    <string name="category_time">Total Time</string>
+    <string name="hint_routine_date">DD/MM/YYYY</string>
+    <string name="hint_routine_exercise">(E.g. Running)</string>
+    <string name="hint_routine_time">Minutes</string>
+    <string name="unit_routine_time">m</string>
+    <string name="type_resting_day">Resting Day</string>
+    <string name="type_cardio_workout">Cardio Workout</string>
+    <string name="type_muscle_workout">Muscle Workout</string>
+    <string name="dummy_date">06/08/2017</string>
+    <string name="dummy_exercise">Spinning</string>
+    <string name="dummy_time">45</string>
+</resources>
